@@ -12,6 +12,7 @@ This is a mobile supported game developed in Unity Platform for entertainment pu
 (i) C-Sharp
 
 <h1> Compatibility </h1>
+
 This game is compatible to any android version of mobile and it is only available on Android Playstore not on IOS.
 
 <h1> Project Files </h1>
