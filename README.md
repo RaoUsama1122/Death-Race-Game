@@ -7,6 +7,8 @@ Race game
 
 
 
+<h1>Images</h1>
+<img src="https://raousama1122.github.io/Death-Race-Game/"
 <h1> Languages </h1>
 
 
@@ -17,3 +19,4 @@ Race game
 <a href="https://raousama1122.github.io/Death-Race-Game/Death Race_Report.pdf">Report</a><br/>
 <a href="https://raousama1122.github.io/Death-Race-Game/Death Race_Proposal.pdf">Proposal</a><br/>
 <a href="https://raousama1122.github.io/Death-Race-Game/Death Race_Manual.pdf">Manual</a><br/>
+
