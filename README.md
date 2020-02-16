@@ -1,9 +1,9 @@
 <h1> Death Race Game</h1>
 
-dfcgbbng
+
 <h1>Description</h1>
   
-This is a mobile supported game developed in Unity Platform for entertainment purpose.
+This is a mobile supported game developed in Unity Platform for entertainment purpose. Goal of our game is to enhance a person’s skill set of handling different kinds of hurdles to achieve the finish line going through some complex stages.
 
 <h1>Game Interface</h1>
 <img src="https://raousama1122.github.io/Death-Race-Game/Death Race_Manual.pdf"/><br/>
