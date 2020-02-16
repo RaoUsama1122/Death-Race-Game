@@ -3,7 +3,10 @@
 This is a mobile supported game developed in Unity Platform for entertainment purpose. Goal of our game is to enhance a person’s skill set of handling different kinds of hurdles to achieve the finish line going through some complex stages.
 
 <h1>Game Interface</h1>
-<img src="https://raousama1122.github.io/Death-Race-Game/Death Race_Manual.pdf"/><br/>
+<img src="https://raousama1122.github.io/Death-Race-Game/Gameplay.JPG"/><br/>
+<img src="https://raousama1122.github.io/Death-Race-Game/Gameplay2.JPG"/><br/>
+<img src="https://raousama1122.github.io/Death-Race-Game/Gameplay3.JPG"/><br/>
+<img src="https://raousama1122.github.io/Death-Race-Game/Gameplay4.JPG"/><br/>
 <b>This is for log in activity<b/>
 <h1>Languages</h1>
   
