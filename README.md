@@ -1,7 +1,7 @@
 <h1> Death Race Game</h1>
 
 
-<h1>Description<h1>
+<h1>Description</h1>
   
 Race game
 
