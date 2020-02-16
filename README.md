@@ -9,7 +9,7 @@ Race game
 
 <h1>Images</h1>
 <img src="https://raousama1122.github.io/Death-Race-Game/Death Race_Manual.pdf"/><br/>
-This is for log in activity
+<b>This is for log in activity</b>
 <h1> Languages </h1>
 
 
