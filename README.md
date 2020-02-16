@@ -15,7 +15,7 @@ The app uttilizes Material Design.
 <h1> Compatibility </h1>
 
 <h1> Files </h1>
-<a href="https://raousama1122.github.io/Death-Race-Game/Implementation Plan"></a><br/>
-<a href="https://raousama1122.github.io/Death-Race-Game/Death Race_Report"></a><br/>
-<a href="https://raousama1122.github.io/Death-Race-Game/Death Race_Proposal"></a><br/>
-<a href="https://raousama1122.github.io/Death-Race-Game/Death Race_Manual"></a><br/>
+<a href="https://raousama1122.github.io/Death-Race-Game/Implementation Plan.pdf"></a><br/>
+<a href="https://raousama1122.github.io/Death-Race-Game/Death Race_Report.pdf"></a><br/>
+<a href="https://raousama1122.github.io/Death-Race-Game/Death Race_Proposal.pdf"></a><br/>
+<a href="https://raousama1122.github.io/Death-Race-Game/Death Race_Manual.pdf"></a><br/>
