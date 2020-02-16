@@ -3,7 +3,7 @@
 
 <h1>Description</h1>
   
-Race game
+This is a mobile supported game developed in Unity Platform for entertainment purpose.
 
 
 
