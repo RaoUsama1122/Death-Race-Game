@@ -7,7 +7,7 @@ This is a mobile supported game developed in Unity Platform for entertainment pu
 <img src="https://raousama1122.github.io/Death-Race-Game/Gameplay2.JPG"/><br/>
 <img src="https://raousama1122.github.io/Death-Race-Game/Gameplay3.JPG"/><br/>
 <img src="https://raousama1122.github.io/Death-Race-Game/Gameplay4.JPG"/><br/>
-<b>This is for log in activity<b/>
+
 <h1>Languages</h1>
   
 (i) C-Sharp
